@@ -4,66 +4,35 @@
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/RTP1_-_Logo_2016.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP 1 🇵🇹
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="Poʀᴛᴜɢᴀʟ",RTP 2 🇵🇹
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="Poʀᴛᴜɢᴀʟ",RTP 3 🇵🇹
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png" group-title="Poʀᴛᴜɢᴀʟ",RTP Memoria
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png" group-title="Poʀᴛᴜɢᴀʟ",RTP Memoria 🇵🇹
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/RTP_A%C3%A7ores_%282016%29.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP Açores
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/RTP_A%C3%A7ores_%282016%29.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP Açores 🇵🇹
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtpmad.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/RTP_Madeira_%282017%29.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP Madeira
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtpmad.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/RTP_Madeira_%282017%29.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP Madeira 🇵🇹
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtpaf.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/RTP_%C3%81frica_%282016%29.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP África
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtpaf.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/RTP_%C3%81frica_%282016%29.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP África 🇵🇹
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/inspiration.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="artv.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ARTV.png",ARTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-name="" tvg-id="artv.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ARTV.png",ARTV 🇵🇹
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 
 
-# 🔰    SIC     🔰
-
-#EXTINF:-1 tvg-name="" tvg-id="sichd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sic.webp",SIC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-name="" tvg-id="sichd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sic.webp",SIC 🇵🇹
 https://bit.ly/42ySDn4?profile=inspirationFreeTV.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="sicnhd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png",SIC Noticias
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="sicnhd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png",SIC Noticias 🇵🇹
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-
-# 🔰    TVI    🔰
 
 #EXTINF:-1 tvg-chno="" tvg-id="TVIInt.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacional 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
@@ -84,8 +53,6 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #https://bit.ly/3tWqMRr?profile=inspirationFreeTV.m3u8
 
 #EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi%C3%81frica.png",TVI África 🇵🇹
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="portochd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PortoCanal.png",Porto Canal 🇵🇹 
