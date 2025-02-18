@@ -9,13 +9,13 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slp
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="Poʀᴛᴜɢᴀʟ",RTP 2 
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="Poʀᴛᴜɢᴀʟ",RTP 2 🇵🇹
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="Poʀᴛᴜɢᴀʟ",RTP 3
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="Poʀᴛᴜɢᴀʟ",RTP 3 🇵🇹
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
@@ -83,18 +83,18 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #EXTINF:-1 tvg-chno="17" tvg-id="" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/morangosAcucar.png",Morangos com Açúcarᴴᴰ 🇵🇹 
 #https://bit.ly/3tWqMRr?profile=inspirationFreeTV.m3u8
 
-#EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi%C3%81frica.png",TVI África ѕᴅ
+#EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi%C3%81frica.png",TVI África 🇵🇹
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="portochd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PortoCanal.png",Porto Canalᴴᴰ 🇵🇹 
+#EXTINF:-1 tvg-name="" tvg-id="portochd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PortoCanal.png",Porto Canal 🇵🇹 
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="euronw.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Euronews.png",Euronewsᴴᴰ 🇵🇹 
+#EXTINF:-1 tvg-name="" tvg-id="euronw.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Euronews.png",Euronews 🇵🇹 
 https://bit.ly/46RyCcU?profile=inspirationFreeTV.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png",Documentárioᴴᴰ 🇧🇷 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png",Documentário 🇧🇷 
 https://bit.ly/3uQwRzn?profile=inspirationFreeTV.m3u8
 
 #EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-id="6298bd10d88ef000073f16b7" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",Smithsonian Channelᴴᴰ 🇵🇹🇧🇷 
@@ -109,5 +109,5 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/runtime.webp",Runtimeᴴᴰ 🇧🇷 
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/runtime.webp",Runtime Actionᴴᴰ 🇧🇷 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/runtime.webp",Runtime Action 🇧🇷 
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
