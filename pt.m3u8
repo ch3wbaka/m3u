@@ -1,9 +1,9 @@
-#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-vodafone-pt.xml.gz" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/5dd66c9a1ad2ef67514afb4ae778f0d0cbc4b85a/PlutoTV/br.xml" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" url-tvg="https://www.bevy.be/bevyfiles/brazil.xml" url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz" refresh="3600" m3uautoload="1" refresh="24"
+
 
 #EXTINF:-1 tvg-chno="" tvg-id="RTPInternacional.pt" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/RTP1_-_Logo_2016.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP 1
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/RTP1_-_Logo_2016.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP 1 🇵🇹
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
@@ -65,7 +65,7 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 
 # 🔰    TVI    🔰
 
-#EXTINF:-1 tvg-chno="" tvg-id="TVIInt.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacional sᴅ 🇵🇹
+#EXTINF:-1 tvg-chno="" tvg-id="TVIInt.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacional 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="tvihd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi.png",TVIᴴᴰ 🇵🇹
