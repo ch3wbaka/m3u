@@ -1,266 +1,138 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/abc-news-logo-395B2C13F7-seeklogo.com.png",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/3/35/1594403566817.png/revision/latest?cb=20200710180153",ABN Africa
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0_R6JMdTwtRVGUiqG2zzWFX4OMOAILgATQ&s",ABN Bible Movies
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Abn_logo.svg/2560px-Abn_logo.svg.png",ABN Freedom of Speech
+https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8
+#EXTINF:-1 tvg-logo="https://laportebranding.com/uploads/media/City-of-LaPorte-IN-logo-3c.png",Access La Porte Country
+https://vbfast-c.viebit.com/810fe13b-a9ac-46b3-a523-5a7e90ddfd25/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-JwVSh9eotqUHO1gH4la8gfCd3bZm0HlBSA&s",Access Nashua
+https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4SFTstvOl9Vp3qbJJf6yvW0uiegQmWKGm7g&s",AccessVision Channel 16
+https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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",AccessVision Channel 17
+https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F8d5dbd52-cbf6-4bbd-818f-14d62c218636-1684848006.22944.256x256.jpg&w=256&q=75",ACL Cornhole TV
+https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/actv.svg",ACTV
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
+#EXTINF:-1 tvg-logo="https://images.prismic.io/atmosphere-marketing/dbfe5d6a-4ff8-4453-894a-6fbed9258fac_AFVtv.png?auto=compress,format",AFV Family
+https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/65177e3cb52536ccd3914e39/667475f526fba63caf1469ad_Akaku_Logo.png",Akaku 53
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/65177e3cb52536ccd3914e39/667475f526fba63caf1469ad_Akaku_Logo.png",Akaku 54 (Hawaii)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.akaku.org/Channel55.png",Akaku 55 (Hawaii)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLPq9IAKaYCAvNxg2AWKukgyAtvBbMa9GVZQ&s",AKCTV.us
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLPq9IAKaYCAvNxg2AWKukgyAtvBbMa9GVZQ&s",AKCTV.us 1080p
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71NOXoPAO3L.png",AKC TV Meet The Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg0ZfYNATr2E63maCWfQPrXU6hcbajQvd83Q&s",America's Voice (720p)
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+#EXTINF:-1 tvg-logo="https://logomagic.com/wp-content/uploads/2018/12/americanhorror_ent.gif",American Horrors
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVLY-1ZMsn-htsfzovTSjA135QL9UN4oDkWg&s",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhd-2KLKnbisxL6rBGUqsxjbmeRc3aQTP3DA&s",Amga TV
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFryswp5YG684s41hY56nYvem1aNBH8UxEg&s",Avang TV
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJBMTFOBHxyhDvSOo_FAygn_FueWdQYTDemQ&s",AWE Encore (720p)
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxqeyHvFvMa0hZjeBuusTDJ6wfmvvlExpIQ&s",AXS TV NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxqeyHvFvMa0hZjeBuusTDJ6wfmvvlExpIQ&s",AXS TV NOW (1080p)
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg/revision/latest?cb=20210520140825",Baby Shark TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomcTgyG_X2nUfToVX1FrmoWnYLpfVfVuxmg&s",Banning CityTV (Banning CA)
+https://vbfast-c.viebit.com/072e341f-100d-4da1-9c18-65370ebf35c6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qTeThAGIbYzpO1Z9Q25GBeu85IpBSsHiYg&s",Beach TV Florida & Alabama
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9kH1BJU16iHZ6WnBGVRlUJYj--OLqr5W7nJCySemieqG4W6DMIuwc4zzFPLvDkia53U",Beach TV Key West & Florida Keys
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8BOFDlNSSebsrvmScSvQTWlS6yJLHHbspNQ&s",Beach TV Myrtle Beach & The Grand Strand
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mVWYQ5nm2ero_0D73irHEkQH6fVFiMN7YB0dv5tst_xw98Zyb0Sl0Dv3B2LPsxZ5nMM",Beach TV Panama City
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.nwe.io/files/x/fc/62/2a318b3a9d9a28c3fc49ba54b99a.jpg",BEK TV News (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATcAAACiCAMAAAATIHpEAAAA8FBMVEX///8AAACLxEPr6+uHh4fV1dWIwjuPxkiLxERGRkb//v+Nx0Sw1oloaGgAAAP///1VVVXW6cGEwjUwMDCm0XL19fWPykSDwTG6urqGwTjm5uZtbW2np6dbW1vDw8Pc3NyQkJB2dnZkji9EYCHq9N/MzMw+Pj4YGBg/Pz8jIyMQEBCay13B36B6rTrx9+j5/PWbm5uwsLDg78/K463Q57hWeCoqOhWezWVynzdNbCUWIAyr03y525SAtT52pTorKysfKxBehSw8VB8RGQlCXR80RhURFQuczmM4TxxTdCcqOBcuQhRihDIYJwrc7crn89h3498jAAAS7UlEQVR4nO1di2LathoGJxUuprioxJ7bdU0ITbdyawMJkABN0q5NuzR5/7eZZFuyfkm+kBDb3fjOzjmZsYX18d91q1S22GKLLbbYYosttthiiy1+CdjRX8O740l/sVg0dCDX+5Pj7ojdbOub+z9h1D0eL9o9w8Mu9jxE/lHh0Q+w66FaezG5G6U3+p+EHYqLPTzuNyhh2EMWhUNB/pf+Sf/dME3TCMD+IPRh1Gu0hmJD/x/Yw1a/XfNcjChTxnKwmnUuT+bzwwDz+c3lbDZYGpRKwp8ESl4t5O7/gEA+7LvxueViTBhZzi7nV6efq7H4/M/VSWdA2TMIe2ZEnWkg7E7HlLr/g8zZx/2p62LCWOfk6iKeLwkXXy4Hpip4yHN741GlXnSvHhd2d9wmth8tO/O/m5kpqzb9fwiuTwaGo+gsds+Pi+7ZI2J026i52BhcXp1lp0zB2XymUGcitzf5r+mqXac9Gk7ayMXLztXXB3AWSt3Xw5XliJaO/o1r/zHmSG+G42/YRbN5dmuWhotLYutMKHW41iq6rxtB+PMP+z0qaNeRvDwctJ3DpWLp3N4dle9iu/1gUP0cTr4R0i7/2RBfEFcDmTnkNka/dlBCwzS71fZcc7OSBvFlKWmriWvHv3g4112YLlp9eRzCOE4sycwh3C+65/eEnxBMeq6zPDl7LEGLcLGSHQRu/4pZP2Wtu0CuM7t+ZMYY5nISgWq/WtrqJ5+3bRebNzmImg/yJRdLBySuhLlu0UysBULbaEwVdJ4LZRF3M0eK5dBd0Vxkhp8V9C3srK5yEjXGGvnvjSOFctavInFE1roN7Dmrx4nV0vBdjoFrw18k/u2euwFrzVylLUCzeiipKuqVP4ojb9htu8iZneZOWIS5RJx3XjQt6SCyZjmr03ztGkSzeiIR506KpiUJts8acgZ5hWvx6EjOwSt1/DtsuMhazosmjWIJnUN5NZXEaws6gHdTnH6KuJCcqlvO8rldsceWZziziyING0eT+gaRNhN9K5oiPW572LCWxRs2hmZ1ZZVf4IZt17Ssy6LJAjiFtRE0LZokCURF+x4ynEGhsYcGl9Cnet2SFTFva1TYSuFFAc4kl7ooEW/Ei5KIjQjbz3LJmo8O1NRaeWirVCZERS3rpGiKtLiAiuqWpC5i28QfYMN0lqclFDaKFSDOK81owwQhQlunnKQRfAG8oXbRfAUYnrvEaBiHRbOTAKn0a5fBM7QMzyCh7kVJddTHDLhUt+gxGvqrkRTeJHlV0cwkYw55KzplsCvdmmcalvO9aGJS8EOMREw8KVRPyXePXcMi/7kus476AOUk4lAL5M0PdQ0afmxuLtajAST3hWYM9Uq3RxyC4ay+FjLssh46Im/ovEh5a5EMgUhbyT1CiO9OWXjru3QegXNZNCPZcFgS3mxq2ogjJQnpk500vHz724dXn9TOvEl9kmLvQ3j7B3D5d7m1Z9Jj4IYrkbeC7BudM9nD1LE782r1VdbHXu5LHT3I9twOu38PXP5Tau219Nhv4NN/SuFPuzXkSxuttb3J/tjeMyhu2Z56Ed6+C66+lWiTfz5JHE8FeSskfqNfeIwpbYZzSNzo87WePkgQkLRHdsDl58myK2sx5O22AHmzKxPX/3pf2qpv13q4/i7qSrYnubo9A5dfJtMmm4TqqainxeSnfZG2P9d8OOrQ00z3R/xArT4ArOxKT+3KtFX/Bn4h9wnmth3SZjpBafePNRuIzNJvWW6vc+sPad4DpOxLT0FSfQB/2lvzpTeBRShtN36K8GLdx5+wjvyV6fZIcOAPBPRwX3rolUobiN+8xrpv/UAQaVuE0tYJXufjuk38wTrye5a7o1jiE7gOxO2D9BB02iFOBN5w/pOSQttmrdYRGhFcULLMfNyJ+g1/oI8JtEmONoSYn+Y8LsOlzbCW4dvsvnkSjx1dI0fsSXB1R9vAmyPe7fewFSH3kOS2/lRLW3UlmLfaRmlJBXUJQfXPzFg42lfaeMM+grG/XkYEQKESUgHJu+y9iGlAKFvmm2XVCW04kDbnKhttGiPG7DyM7t8kNkIBaY5kSqJtJ462H5GamvlWyXm4y1xpFuxLjfBoLCkY0yAuxZKl7V1cA6I7rdm5Lqu8DWgzLbHg9umFCOW15Qz0dXgdJmc78mMKXmpbkYPHl+9jGxDcAlHTPNHFTM6FVd2SP5W1JDbXTgjGdIhJsaRELUnbheGFfL3psBZ+syNOCYT26zfpZeVMisduMDnbq6ZBr9USbU8SGhAmiKBpnl7BnqJA2JxL0bhBc30EX1aud0Qdg2ZJKUDK0KdYkg2Q60oAQtSLW/nxZlcaoZbyyM0HNNfSDy7Ho1zaqn9Bs/xXGm9Qqz9oafsj4flmdSB6hU2xkgHjMHAzLLDSCka2r8WPjp5ITXyIPkvWbgXQiNb9a+8l2pIbEdQUjzfFSSrsyl0YgdC0VNDShCBMDtz2xMgWandcyBXTlp9ivYcOFuRdGpxEXgHluO5jxIJtqqUCb7FB2O6e1AIQB6jdL18/0+CVkC7Bpj5paPtQTcYyCkLGeVk38jVtFH6rXxjniAvCduXEdAdWKLR5q4xICvfBdWrHPkktpNF2HalpftYtyhN4FSQEjANYEHbwUm5B8pfP5M91EGylMqzwQpLm1PAvmuPg5VhBGrKAV3IKR+CuvfcxrL2Vx02zjGIJVCs++0iiLdWv8KEFE+VZ6J1yLe2A14EVMb+nr1ROFIudZVhBjGhgk8/UnDeVN55jme5dfonpmOdXDqgeSRUxPwiTQzYKWYsyDEjsCXmmmmLJQ1dJeQJFFIR4jdx2XLWHnhGJm1gG0VbEjhQ1lceWjtQbFIiBIAwDaVtyGpKWpkVTVK0cY5BzxIIQ5yd4nZhJBxpxAvFwhgEJ0T1qUix5oDuFt6jy5ua4pdmxy38sOF8rNsVSx1vEjr1LNzBA7zQpljKEppmww9GszpiaevlNQrIrPeYUDAfuZRFTEavqjNzHpA9liMZNTrH8+t57OaiOGVEIIMRuOQ42tyJxAwl94qQDdUA5ytzlPqsAQw2aFEttQzdcGqApFN7c27V7f2/YNf5jOXCZHzTXB/B1FefALZak3U+fK4DCA7U6zCHkfCMp7uUFJJznYAyPQUgU8ll0ptBcy3VuZYoST/njtVuLfXA7KxXJlZaEpP4nk7Zcd1wRxI14BZE3bUUs7uPIMyROKdJAP3NLbj2h9MYyLAvlt8MPSUwxH3V0wOIr6NL2lOEQJQUNDZwajCUCRrjcz8qhTBz/zWi7mjyH/ogz5eIGBmOSJh0EUKY/BLwlTSnSAaZY3PzLPjmmoWb1gi2SocXK/PQ0it2k4O291lyLkFxeOFswRbtlwMRAqFNJ71nXD/81qwNGW77Tx89RxBvwpvAH15iXd1JLgURA7Y7prQBYp4q0WrECR7qnm9WbcK9Gb1rP70AGuzKKnKnh/BBfCZprTdgpj5sGY03aYCwesYOFirvW+2U2U9Dr5bklEvUKgnkTXyjGXAuQZ+4GspKq3RAwfBa0WikNHOgeP2MRiJnzZN6poKbAvMEgTDNLT670BOZtH1xLGrfzIen6u9hPtJaSGLcwBMl7O9ChqKY3wivFmetY2sIiU6p2QyQMFsqhmK5yydJ5N+/NQEU1BdFbYopFrL9aSXqhsplWbJTJAaZfTlA1Q/U3YeSWO22iNwVuAVqX+tHTCM+f7X7UFC6DwQL4we6fT2PwPPCzSYtj5O9QZZ7twZX/Ag+7JvImRL2Zps+LCHqVcXEMl8SEqQCK25EC32b12uK05Y2uoKaiO11/JnRgyeRkPA5h0pY4H1P56aTK5Y8gcLO8/KWt0vKEGbFC7S3T9HkRQXqUeVlNmLwnzsdUau1izY6kV2YY7xaxa8PCi2izBtFrpRceIV6tp91hLS3ZZ+/LT4FYKKQNoQK2K6tHcxsgb8orJ2MvNEyf0m/1waI6/VQABiXQiXIwIm1+hdf097/PnzdbqIWIvGWa28HxlhXIM2o3M/BSRiDRpvoYYXj/bOm7UtQbFrI0d4S0vGVcoRxgj1d+lKGUGLBgOGU+pjLkz8TUt20mXWBKj6kogrehp+VtjbXNLw+iju5ne4TpozQVQCmcKCOB3N+Gts1tFLXtAAhDuD/NHITt/A5Wv2fTbp6yxi6OYZATrZ1Q2k6NgLbi9nfrivJmGGuI286TjwdSrUMuNMY8yO+H1zXVNeXZQCSvQ0daxCrwEJA3JzxSczcFr14f6VasvEp7zgfP9F/si5cPNA0qz/rf6q+JMb1eN+4kysTqpS2cNhscw6d5LvVEWom3Ys6dWA/+UKnpnsdXKUe1BFjtygSFfyO4pKbLrteMtFoe5K2Ee8sq6PgVkETT1kXKcZ8RvAVbSSUtiLajHCB9ofQQylsn/b2LxdcBlTbPSkytbrG0XSPgbVLpMt6QuGl+fcS5wMM0wzkCvJnLMu+31SSO1KTS5qYcLjb2Enhz74QRlbb2MSpuKcQJQ/UU1kNOdX1s0PFlix5mN045mriRxBsaCZ0G84D51fQVcTbIT0tt4JrVpn+mByZ+NFEawDi6ih65Ycq6G03Xt4l2M2azDMMuoGMo8SZvP2gib7mL1D6B3FERt3MirLzGjYTHuARlWIBZr0xg4GuUVlEPqY+kJ3WmTpy5c3EIPvfW9Ngl4ojrlT5TZBz9CEPuLNpZwukh9D2l3TDVH7eiJ8Nm6FKLoc9EyOvzazQy4xOJMGtPCEIyDvFAx2As07uQN4iLv6blDypsGSRBuIXP68OQ7xa7HqmkzVU343pfaOCM7Hs45AfiECwDZbBsMhohGVYPcsEDOMxliy2ystyMWe+dC3izSiVwfjR5TR2CO70LTo1eB8yxyh6SB3DRfDl+a9YlSrbktZ0vRZMF8Z5GHx66z0I1m/VJPlCAB3CYLXXg0pN18YNNwuQyW7hD0wlPCl+/ZsRdpDK+Gi47MD22kSOLTNZYETeSouvynFLUrP6gB1Hg6b0mMdg68x+CxWps41CWppvZ19rwbX0iTS3yZEmAS8uycK21tl1jHQvZsEz5eeYM2RZKLGBBNTv7d42ks6WtZQmSe/IKh0uHGLbxfWcD2kT5go6pR7eF0b6JGvRUq/qITfZYZ8c41cJZZSgnXQ8cC+HF/cer7Dr3kUo57Tbsse9oBYVWBDMZciJcbNZApf3HzHcHD5pCyWtk6qpxFsCFJ9CwzWbwmgM9XRjDGWbB0e/ZjMiae/7Aiac8tlAmkNicUn95DbvRQqM1V42MJeL83ZGKsnIXJD3w3PMHzzvlMyKx8gPYLISo0fCmwbzEmuJGXEhDMnGG9XdhrFnErp2nFNmygGeQyqYY0bpRyxYm1N9jrxZ7qhCXe97QJAJ+2rEcD/l27cFjo3zCt3KMVlSuRaMoXLnPhnGRK45UNX/n8PfMcrDVH25kWwGWTJkqH3ZlwQKPYVQRQqmjMZovqQxV4jr52Tj6PYck8nBrfry2iQ0WeQ6ANTkAqzB5XT4qeM9dkusqcdbgZ2qHN4WzE9Px8PR2M5xR3MZmWZVogTe+4yp7703gRz3PkFJV/0y7x5U5v3VfQdFig0s3aDQfpkG6I9lZ5OUeh8m/ie59AHndPpcyVcNyVo9/9tPZydLBuDfZ8PIqVrTU7u4+DIsZ+HYR/nX/7TBtvr02Az2PxzhpPubxT80vgajRkscmt42tV76FozJaQWKlOa8feoVsozExsCt3NVnkTGf5eAdQXnUMB7vt1uh+JY8k8NFAT7vzYC9UYuZMH7Tgpl6vjBZy6mBaG2cukN5rShrujYeblbQQ3diipQ/mDUKD/tDDx8mvftfD8nQewtz31OW3a+Hrl5npYK/Xf7RVfFHRUusnpeEo/NA1EDTiHNdgo/5JUGZnA+XMQNBOv6+oegakPdaUST52ammD6DGwRxs66340NmQzR4VucPJw53px2Fk6RD2/PZ6kBQgV0YyhpAU6uJEFXvT3GY0VB0GFzhqc/BPJTVYZY3f/mHeWJP3EqD0ZVlKmkz4YzODTzeA0H8Phz03u1tL65qoTVCyHKOx8fbH7+eVmZTqO57q9xW0es5lHbEtdrN9ZVVyuvMGdz2w6faW7qLkkhQA5hEn8q+UYs5srKQdr6v6P4Ox63hkQuh2E3Vqj5Qe3OWy7cMycmz7AsG2xV72N+nP/xDZCHdbMiyLcWcZgdjm/Ov2sFbCvF9eH3zurAREyx0Kei3qLVp4bB7Cipelq0xAwSc7d8O6r/inmdrc/Ra6ncGcG7DmWZS4Hq9Vs1gkwm61WgyUJ+vzPLI+Ys9r5+G7EG8wHDYwCxO3k2/YQSrnlwRje9qeGi1XyuPRJINcQYQybvcb4uJDD5hbtEPpipF3psxva08fa7Nf/OUbdyWJa8wh7BCgW9FNCGKpNG+PbbqAj+e0iE/v2CvI8QYVg2G2N+4tGAhb9/uS4m+fWMaXHOnJTrIxtscUWW2yxxRZbbLHFFvfAv8mMySoQay83AAAAAElFTkSuQmCC",BEK TV Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4lFfomgD9iygsgD-yd4GXwNbjZnb_uK3aiQ&s",Better Life Nature Channel (480p)
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ipapool.com/wp-content/uploads/2023/09/US_STVP_BilliardTV_ChannelTile_1000x1000_Square.jpg?fit=1000%2C1000&ssl=1",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/BizTV-Logo-2019.png/revision/latest?cb=20200519141240",Biz TV
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQH_9Z1Y7Z9dtA/company-logo_200_200/company-logo_200_200/0/1693961349563/tictocbybloomberg_logo?e=2147483647&v=beta&t=GuCTHnX5zr-qlYh1bX6QhSRWdtJcdYzh4ZfkzY-Og8Y",Bloomberg Originals
+https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/gc-media-assets.gc.southendutdfcservices.co.uk/f0e0ecea-6be7-45ef-9afd-6f9f8d3f2de9.jpg",Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdAGmfnC9Ijl3Q41BqtxDqnQnlNQdhvzxAJA&s",BMC-HD TV
+https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-vNuoPsayvD4DT9zw47QBzaYk-WGUw-S0Q&s",BX Arts
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/63b4315d7b2cb6535cc44ee3/123533c5-b665-4277-b3b0-bc446b9b06fe/Logo+BXC+-+Patch.png?format=1500w&content-type=image%2Fpng",BX Culture
+https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/63b4315d7b2cb6535cc44ee3/123533c5-b665-4277-b3b0-bc446b9b06fe/Logo+BXC+-+Patch.png?format=1500w&content-type=image%2Fpng",BX Inform
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/63b4315d7b2cb6535cc44ee3/123533c5-b665-4277-b3b0-bc446b9b06fe/Logo+BXC+-+Patch.png?format=1500w&content-type=image%2Fpng",BX Inspire
+https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/63b4315d7b2cb6535cc44ee3/123533c5-b665-4277-b3b0-bc446b9b06fe/Logo+BXC+-+Patch.png?format=1500w&content-type=image%2Fpng",BX Omni
+https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://cafetradehls.wns.live/hls/stream.m3u8",Cafe Trade TV
+https://yt3.googleusercontent.com/S2vcB8_pUr166iHJyeODdLbHI1Svmtcr6MnuCJ4171vwEFtCL-JIv11kTlMbGktXV8Mw9uVzXI0=s900-c-k-c0x00ffffff-no-rj
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdASMElIhuM9lqIBqunFy3dDBt-vRM1v5InQ&s",California Music Channel
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUsDgGwgP5l2-KoPak5NZClBbHLO99YF3RPA&s",Camera Smile
+https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4D05AQHiHm0NfQuCyA/feedshare-thumbnail_720_1280/feedshare-thumbnail_720_1280/0/1717058565361?e=2147483647&v=beta&t=KLtzNB3aJawAhNST1eT1z1baa1xetc3q505Ct4zt9P8",Camp Spoopy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/64e8f871fe2b5a4d068fdf85/2af890e2-96a1-4560-bd3c-2dcdc13e0471/TVC+LOGO.png",Caribbean World Channel
+https://vse2-eu-all7.secdn.net/tvsw4-chorigin/play/prod-1e7b0eabb35d4d0a9138f377fd013d96/chunklist_sess835370874.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/243/547/png-clipart-catholictv-television-religious-broadcasting-logo-brand-woodlawn-cemetery-tampa-catholictv-television.png",Catholic TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://marvel-b1-cdn.bc0a.com/f00000000039764/cf-images.us-east-1.prod.boltdns.net/v1/static/734546207001/2ae3562c-2edf-45ee-8cf7-aa82326ebfc9/903baab0-d6d3-48a6-9ad6-c151c44de786/1280x720/match/image.jpg",CBN Español
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sP0gCCywjsZsSOIcQjoUTos0mIlLonUu3j1aCFpcti5WJjJz1630qVamAhbpXsh-WA",CBN Family
+https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://secure.cbn.com/images8/cbnnews/news-channel-logo.png",CBN News National
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Celebrities_TV.png/1637px-Celebrities_TV.png",Celebrity Scene TV
+https://bozztv.com/gusa/gusa-celebrityscene/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqkpXF5-VAvpj2o9JfrjyXTbhnG6IA9RVILA&s",CFN Catholic Faith Network
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSkSHbFcNZiXzNW4PKJLu9GC3AJVjcdijWw&s",CineLife
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fUDAA6kA4-43mgYKf5hiWFVtjRzpONgWRio5d6VW-5YF_sQmHr06qWB047Uv4Y4k0EfYWjz2OdY=s900-c-k-c0x00ffffff-no-rj",Classic Cinema
+https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1f3a79fd52b78fb10d7b232fee09004ebe7b8ac9e7e23c6c2e3bbb70b3c52755.png",Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://staticcdn.newscyclemobile.com/images/app_1872/branding/1872_icon_1024.png",CMC-USA (California Music Channel)
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lW_nng6RrQozBAuXBp1U8yy70bSstPimYBc4nd5mfxMfw=s900-c-k-c0x00ffffff-no-rj",Cops
+https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.countynewscenter.com/wp-content/uploads/favicon.png",County News Center
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/e/e9/CSat_Logo_1997.svg/revision/latest?cb=20150126135355",CSat TV
+https://5b622f07944df.streamlock.net/csat.tv/csat.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOsnIm0N31rsHi4xA6cbuP9VmveZ9FoXP8g&s",Cult Classic Movie Theater
+https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
+
+
+
 #EXTINF:-1 tvg-id="247Retro.us",247 Retro TV (432p) [Not 24/7]
 http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us",ABC News (720p)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="ABNAfghanistan.us",ABN Afghanistan (540p)
-https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
-#EXTINF:-1 tvg-id="ABNAfrica.us",ABN Africa (480p)
-https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
-#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us",ABN Bible Movies (720p)
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-#EXTINF:-1 tvg-id="ABNChina.us",ABN China (720p)
-https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-#EXTINF:-1 tvg-id="",ABN Freedom of Speech
-https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8
-#EXTINF:-1 tvg-id="",ABN I AM
-https://mediaserver.abnvideos.com/streams/i_am_.m3u8
-#EXTINF:-1 tvg-id="",ABN Son of God
-https://mediaserver.abnvideos.com/streams/son_of_god_.m3u8
-#EXTINF:-1 tvg-id="ABNTVIndia.us",ABN TV India (540p)
-https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
-#EXTINF:-1 tvg-id="ABNUrdu.us",ABN Urdu (540p)
-https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-#EXTINF:-1 tvg-id="AccessLaPorteCountyChannel97.us",Access La Porte Country
-https://vbfast-c.viebit.com/810fe13b-a9ac-46b3-a523-5a7e90ddfd25/playlist.m3u8
-#EXTINF:-1 tvg-id="AccessNashua.us",Access Nashua
-https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AccessVisionChannel16.us",AccessVision Channel 16
-https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AccessVisionChannel17.us",AccessVision Channel 17
-https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ACLCornholeTV.us",ACL Cornhole TV (1080p)
-https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8
-#EXTINF:-1 tvg-id="ACTV.us",ACTV
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
-#EXTINF:-1 tvg-id="AfroLandTV.us",AfroLandTV (1080p)
-https://alt-al.otteravision.com/alt/al/al.m3u8
-#EXTINF:-1 tvg-id="AFVFamily.us",AFV Family (720p)
-https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8
-#EXTINF:-1 tvg-id="AghapyKids.us",Aghapy Kids (1080p)
-https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
-#EXTINF:-1 tvg-id="Akaku53.us",Akaku 53 (Hawaii) (1080p)
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
-#EXTINF:-1 tvg-id="Akaku54.us",Akaku 54 (Hawaii) (1080p)
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
-#EXTINF:-1 tvg-id="Akaku55.us",Akaku 55 (Hawaii) (1080p)
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
-#EXTINF:-1 tvg-id="AKCTV.us",AKC TV
-https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
-#EXTINF:-1 tvg-id="AKCTV.us",AKC TV (1080p)
-https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
-#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us",AKC TV Meet The Breeds
-https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
-#EXTINF:-1 tvg-id="AKCTVPuppies.us",AKC TV Puppies 24/7
-https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
-#EXTINF:-1 tvg-id="AlHorreyaTV.us",Al Horreya TV (1080p)
-http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
-#EXTINF:-1 tvg-id="AlHorreyaTV.us",Al Horreya TV (720p)
-http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlFadyTV.us",Al-Fady TV (1080p) [Not 24/7]
-https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlMahdiTV.us",Al-MahdiTV (1080p)
-https://iptv.almahditv.com/almahditv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbdreamsTV.us",AlbDreams TV (720p)
-http://live.albavision.net:1123/live/albdreams.m3u8
-#EXTINF:-1 tvg-id="Alhurra.us",Alhurra (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="Alhurra.us",Alhurra (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8
-#EXTINF:-1 tvg-id="AlhurraIraq.us",Alhurra Iraq (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="AlientoVision.us",Aliento Vision (720p) [Not 24/7]
-http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlientoVision.us",Aliento Vision (720p) [Not 24/7]
-http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkarmaTVAustralia.us",Alkarma TV Australia (1080p)
-https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkarmaTVAustralia.us",Alkarma TV Australia (1080p) [Not 24/7]
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkarmaTVFamily.us",Alkarma TV Family (1080p) [Not 24/7]
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkarmaTVMiddleEast.us",Alkarma TV Middle East (1080p) [Not 24/7]
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkarmaTVNorthAmericaCanada.us",Alkarma TV North America & Canada (1080p) [Not 24/7]
-https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkarmaTVPraise.us",Alkarma TV Praise (720p) [Not 24/7]
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkarmaTVTalmazaDiscipleship.us",Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkarmaTVYouthEnglish.us",Alkarma TV Youth & English (1080p) [Not 24/7]
-https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlkerazaTV.us",Alkerazatv (720p)
-https://hwlive.streamingmediahosting.com/14221-live/0_ahgiewbd/playlist.m3u8
-#EXTINF:-1 tvg-id="AlmagdTVMiddleEast.us",Almagd TV Middle East (1080p) [Not 24/7]
-https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlmagdTVNorthAmerica.us",Almagd TV North America (1080p)
-https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericasVoice.us",America's Voice (720p)
-https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-#EXTINF:-1 tvg-id="AmericanHorrors.us",American Horrors (480p)
-http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
-#EXTINF:-1 tvg-id="AMGTV.us",AMG TV (1080p)
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 tvg-id="AMGATV.us",Amga TV (720p) [Not 24/7]
-https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
-#EXTINF:-1 tvg-id="AvangTV.us",Avang TV (720p)
-https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AWEEncore.us",AWE Encore (720p) [Geo-blocked]
-https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
-#EXTINF:-1 tvg-id="AXSTVNOW.us",AXS TV NOW
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="AXSTVNOW.us",AXS TV NOW (1080p)
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="BabySharkTV.us",Baby Shark TV (720p)
-https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
-#EXTINF:-1 tvg-id="BanningCityTV.us",Banning CityTV (Banning CA) (1080p)
-https://vbfast-c.viebit.com/072e341f-100d-4da1-9c18-65370ebf35c6/playlist.m3u8
-#EXTINF:-1 tvg-id="BeachTVCSULB.us",Beach TV CSULB (160p) [Not 24/7]
-http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BeachTVFloridaAlabama.us",Beach TV Florida & Alabama (720p)
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BeachTVFloridaAlabama.us",Beach TV Florida & Alabama (720p)
-https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BeachTVKeyWestFloridaKeys.us",Beach TV Key West & Florida Keys (720p)
-https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BeachTVMyrtleBeachTheGrandStrand.us",Beach TV Myrtle Beach & The Grand Strand (720p)
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BeachTVMyrtleBeachTheGrandStrand.us",Beach TV Myrtle Beach & The Grand Strand (720p)
-https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BeachTVPanamaCity.us",Beach TV Panama City (720p)
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BeachTVPanamaCity.us",Beach TV Panama City (720p)
-https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BEKNews.us",BEK TV News (720p)
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BEKSportsWest.us",BEK TV Sports West (720p)
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BetterHealthTV.us",Better Health TV (480p)
-https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
-#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us",Better Life Nature Channel (480p)
-https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
-#EXTINF:-1 tvg-id="BetterLifeTV.us",Better Life TV (720p)
-https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
-#EXTINF:-1 tvg-id="BilliardTV.us",Billiard TV (1080p)
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
-#EXTINF:-1 tvg-id="BilliardTV.us",Billiard TV (720p)
-https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8
-#EXTINF:-1 tvg-id="BizTV.us",Biz TV (1080p)
-https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergOriginals.us",Bloomberg Originals (1080p)
-https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
-https://bloomberg.com/media-manifest/streams/qt.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us",Bloomberg TV US (720p)
-https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="BloombergTVLiveEvent.us",Bloomberg TV US Live Event (720p)
-https://bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVPoliticsLiveEvent.us",Bloomberg TV US Politics Live Event (720p)
-https://bloomberg.com/media-manifest/streams/politics.m3u8
-#EXTINF:-1 tvg-id="BloombergTVPlus.us",Bloomberg TV+ (1080p)
-https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 tvg-id="BATVGovernmentTV.us",Bloomfield Access Government TV (480p)
-https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-id="BATV.us",Bloomfield Access TV Channel 5 (480p)
-https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
-#EXTINF:-1 tvg-id="KMBYLD5.us",Blues TV
-https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
-#EXTINF:-1 tvg-id="BMCHDTV.us",BMC-HD TV
-https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="",Boxing TV (1080p)
-https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
-#EXTINF:-1 tvg-id="BXArts.us",BX Arts (720p)
-https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
-#EXTINF:-1 tvg-id="BXCulture.us",BX Culture (720p)
-https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8
-#EXTINF:-1 tvg-id="BXInform.us",BX Inform (1080p)
-https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8
-#EXTINF:-1 tvg-id="BXInspire.us",BX Inspire (720p)
-https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
-#EXTINF:-1 tvg-id="BXOmni.us",BX Omni (720p)
-https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
-#EXTINF:-1 tvg-id="BYUTV.us",BYU TV (720p)
-https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
-#EXTINF:-1 tvg-id="CafeTradeTV.us",Cafe Trade TV (720p)
-https://cafetradehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us",California Music Channel (720p) [Not 24/7]
-https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="CameraSmileTV.us",Camera Smile (480p)
-https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
-#EXTINF:-1 tvg-id="CampSpoopy.us",Camp Spoopy (576p)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-#EXTINF:-1 tvg-id="CaribbeanWorldChannel.us",Caribbean World Channel
-https://vse2-eu-all7.secdn.net/tvsw4-chorigin/play/prod-1e7b0eabb35d4d0a9138f377fd013d96/chunklist_sess835370874.m3u8
-#EXTINF:-1 tvg-id="CatholicTV.us",Catholic TV
-https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
-#EXTINF:-1 tvg-id="CBNEspanol.us",CBN Español (1080p)
-https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="CBNFamily.us",CBN Family (1080p)
-https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="CBNNews.us",CBN News National (1080p)
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 tvg-id="WTSPDT1.us",CBS WTSPDT (720p)
-https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?CMCD=mtp=9500,ot=m,sf=h,sid="4e546942-2006-495c-a946-06b8f3a0faca"&request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk
-#EXTINF:-1 tvg-id="CelebritySceneTV.us",Celebrity Scene TV (720p)
-https://bozztv.com/gusa/gusa-celebrityscene/index.m3u8
-#EXTINF:-1 tvg-id="CatholicFaithNetwork.us",CFN Catholic Faith Network (720p)
-https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
-#EXTINF:-1 tvg-id="Charge.us",Charge! (720p)
-https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-id="ChefChampion.us",Chef Champion (720p) [Not 24/7]
-https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
-#EXTINF:-1 tvg-id="ChefRocShow.us",Chef Roc Show (720p) [Not 24/7]
-https://bozztv.com/gusa/gusa-chefrock/index.m3u8
-#EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us",Christian Youth Channel (CYC) (1080p)
-http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us",Christian Youth Channel (CYC) (1080p)
-http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
-#EXTINF:-1 tvg-id="CineLife.us",CineLife
-https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassicArtsShowcase.us",Classic Arts Showcase
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="ClassicCinema.us",Classic Cinema (240p) [Not 24/7]
-https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
-#EXTINF:-1 tvg-id="",Classic Reels TV
-https://crt-ext.rodeotv.net/s/iUvKb6g3mbVgXDGy8a3tCQQSfjNXvNEL/crt-h264.m3u8
-#EXTINF:-1 tvg-id="CloudflareTV.us",Cloudflare TV (720p)
-https://cloudflare.tv/hls/live.m3u8
-#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us",CMC (California Music Channel)
-https://cmc-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us",CMC-USA (California Music Channel) (720p)
-https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCIndonesia.id",CNBC Indonesia (720p)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Comet.us",Comet (720p)
-https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:-1 tvg-id="CookingPanda.us",Cooking Panda (576p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
-#EXTINF:-1 tvg-id="Cops.us",Cops (720p)
-https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
-#EXTINF:-1 tvg-id="CNCTV.us",County News Center (CNC TV) (San Diego CA) (720p)
-https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
-#EXTINF:-1 tvg-id="CourtTV.us",Court TV (720p)
-https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:-1 tvg-id="CSatTV.us",CSat TV (1080p) [Not 24/7]
-http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CSatTV.us",CSat TV (1080p) [Not 24/7]
-https://5b622f07944df.streamlock.net/csat.tv/csat.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CSatTV.us",CSat TV (1080p) [Not 24/7]
-https://5d12bc59c4748.streamlock.net/redirect/csat.tv/csat.smil?type=m3u8
-#EXTINF:-1 tvg-id="CTNCourtFeed.us",CT-N Court Feed (360p) [Not 24/7]
-http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="CTNLiveStream2.us",CT-N Live Stream 2 (360p) [Not 24/7]
-http://video.ct-n.com/live/web2stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CTNTVConneticut.us",CT-N TV Conneticut (720p) [Not 24/7]
-http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="CTN.us",CTN (404p)
-https://ctntv.getstreamhosting.com:1936/CTNTV/CTNTV/playlist.m3u8
-#EXTINF:-1 tvg-id="CTNLifestyle.us",CTN Lifestyle (540p)
-https://ctntv.getstreamhosting.com:1936/Lifestyle/Lifestyle/playlist.m3u8
-#EXTINF:-1 tvg-id="",Cult Classic Movie Theater (1080p)
-https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us",Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us",Daystar TV (720p)
@@ -964,7 +836,6 @@ https://thegateway.app/YouToo/CueTones/playlist.m3u8
 #EXTINF:-1 tvg-id="YoutooAmerica.us",Youtoo America (1080p)
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
 #EXTINF:-1 tvg-id="ZoomNews.us",Zoom TV Kurdish (720p)
-#EXTVLCOPT:http-referrer=https://zoomnews.info/
 https://live.zoomnews.info/live/Zoom_playlist.m3u8
 #EXTINF:-1 tvg-id="TBD.us",TBD (1080p)
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
