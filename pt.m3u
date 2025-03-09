@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="" tvg-id="RTPInternacional.pt" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtpinternacional.png?h=56&q=100&fm=png32",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/RTP1_-_Logo_2016.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="Poʀᴛᴜɢᴀʟ",RTP 2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="Poʀᴛᴜɢᴀʟ",RTP 3
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png" group-title="Poʀᴛᴜɢᴀʟ",RTP Memoria
+https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/RTP_A%C3%A7ores_%282016%29.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtpmad.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/RTP_Madeira_%282017%29.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="rtpaf.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/RTP_%C3%81frica_%282016%29.svg" group-title="Poʀᴛᴜɢᴀʟ",RTP África
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/inspiration.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="artv.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ARTV.png",ARTV
+https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="sicnhd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png",SIC Noticias
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="TVIInt.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviInternacional.png",TVI Internacional
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="tvihd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi.png",TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
+https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="tvificcao.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviFic%C3%A7%C3%A3o.png",TVI Ficção
+https://bit.ly/3gejKxf?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="" tvg-id="tvireality.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tviReality.png",TVI Reality🇹
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvi%C3%81frica.png",TVI África
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="portochd.tv.vodafone.pt" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PortoCanal.png",Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png",Documentário
+https://bit.ly/3uQwRzn?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-id="6298bd10d88ef000073f16b7" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",Smithsonian Channel
+https://bit.ly/3B2uidm?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 group-title="Poʀᴛᴜɢᴀʟ" tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" ,Filmes Nacionais
+https://bit.ly/3O1z2ai?profile=inspirationFreeTV.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/myTimeMovie.webp",My Time Movie network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/runtime.webp",Runtime
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Poʀᴛᴜɢᴀʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/runtime.webp",Runtime Action
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjUgNjo2OjExIFBNJmhhc2hfdmFsdWU9TXVMSUlNN3JSRjZSdnp2cXdaSGZPZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE1MzViYTg5LTE3ZjQtNGY0Zi05YzNhLWQzMjQ2ZDNjZDcxOQ==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjUgNjo2OjExIFBNJmhhc2hfdmFsdWU9TXVMSUlNN3JSRjZSdnp2cXdaSGZPZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE1MzViYTg5LTE3ZjQtNGY0Zi05YzNhLWQzMjQ2ZDNjZDcxOQ==/
+#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
+https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
